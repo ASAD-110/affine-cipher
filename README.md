@@ -1,6 +1,6 @@
-# FCC Assignment 1 (Affine Cipher)
+# Affine Cipher
 
-The goal of this assignment was to demonstrate how Affine Cipher and Simplified DES works.
+The goal of this assignment was to demonstrate how Affine Cipher works.
 
 To run Affine Cipher:
 compile: `make`
